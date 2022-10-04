@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghost-buses-frontend/static/css/main.b69e0cdb.css",
+    "main.js": "/ghost-buses-frontend/static/js/main.ec2b7cc1.js",
+    "static/media/busStop.png": "/ghost-buses-frontend/static/media/busStop.a6432c1e63ab74ca54b9.png",
+    "static/media/chiHackLogo.png": "/ghost-buses-frontend/static/media/chiHackLogo.a20d2445521bd1461957.png",
+    "index.html": "/ghost-buses-frontend/index.html",
+    "main.b69e0cdb.css.map": "/ghost-buses-frontend/static/css/main.b69e0cdb.css.map",
+    "main.ec2b7cc1.js.map": "/ghost-buses-frontend/static/js/main.ec2b7cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69e0cdb.css",
+    "static/js/main.ec2b7cc1.js"
+  ]
+}
